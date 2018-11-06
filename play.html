@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="js/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/play.css">
+    <title>Armour Family 100</title>
+</head>
+
+<body id="container">
+    <div id="main-menu-container">
+        <h1>Armour Family 100</h1>
+        <button id="start">Mulai Permainan</button>
+    </div>
+    <div id="score-container">
+        <div class="team team-a" id="team-a">
+            <h3 class="name">Tim A</h3>
+            <h3 class="score"></h3>
+        </div>
+        <div class="team team-b" id="team-b">
+            <h3 class="name">Tim B</h3>
+            <h3 class="score"></h3>
+        </div>
+    </div>
+    <div id="list-question-container">
+    </div>
+    <button id="done">Permainan Selesai</button>
+    <div id="quiz-container">
+        <div id="question-container">
+            <h3 id="turn"></h3>
+            <div id="fault-container">
+                <h4 class="fault">X</h4>
+                <h4 class="fault">X</h4>
+                <h4 class="fault">X</h4>
+            </div>
+            <h2 id="question"></h2>
+            <div id="answer-container"></div>
+            <div id="point-container">
+                <h3>Total poin:</h3>
+                <p id="point">100</p>
+            </div>
+        </div>
+        <form id="action-container">
+            <input type="text" name="answer" id="answer" placeholder="Jawaban tulis di sini">
+            <button id="submit">Cek Jawaban</button>
+        </form>
+        <div id="select-team-container">
+            <button id="select-a" class="select team-a">Giliran Tim A</button>
+            <button id="select-b" class="select team-b">Giliran Tim B</button>
+        </div>
+        <div id="final-action-container">
+            <button id="back">Kembali</button>
+            <button id="reveal">Tamplikan Semua Jawaban</button>
+        </div>
+    </div>
+    <div id="winner-container">
+        <h2>Selamat!</h2>
+        <h1 id="winner">Pemenangnya adalah Tim A!</h1>
+        <button id="reset">Kembali Ke Menu Utama</button>
+    </div>
+</body>
+<script src="js/SeamlessLoop.js"></script>
+<script src="js/play.js"></script>
+
+</html>

@@ -1,0 +1,109 @@
+@font-face {
+    src: url("../fonts/gilroy-extrabold.otf");
+    font-family: "Gilroy";
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    background: url("../img/bg2.jpg");
+    background-size: 20%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+input,
+ul,
+ol,
+button {
+    text-transform: uppercase;
+    font-family: "Gilroy";
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+ul,
+ol {
+    color: #fff;
+    list-style: none;
+}
+
+h1 {
+    font-size: 2.75em;
+}
+
+h2 {
+    font-size: 1.75em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.25em;
+}
+
+input[type=text],
+button {
+    margin: 0;
+    padding: 8px 12px;
+    font-size: 1.2em;
+    color: #303952;
+    background-color: #fff;
+    border: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+#container {
+    display: flex;
+    flex-flow: column;
+    width: 90%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+    margin: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}

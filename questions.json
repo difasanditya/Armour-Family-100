@@ -1,0 +1,181 @@
+[{
+        "question": "Apa reaksi wanita bila melihat tikus?",
+        "answers": [{
+            "option": ["lari", "kabur"],
+            "value": 40
+        }, {
+            "option": ["teriak", "menjerit"],
+            "value": 31
+        }, {
+            "option": ["pingsan"],
+            "value": 14
+        }, {
+            "option": ["loncat", "lompat"],
+            "value": 8
+        }, {
+            "option": ["kaget", "terkejut"],
+            "value": 7
+        }]
+    },
+    {
+        "question": "Apa yang dijual pedagang di lampu merah?",
+        "answers": [{
+            "option": ["koran"],
+            "value": 32
+        }, {
+            "option": ["kacang"],
+            "value": 27
+        }, {
+            "option": ["tisu"],
+            "value": 16
+        }, {
+            "option": ["rokok"],
+            "value": 13
+        }, {
+            "option": ["minuman"],
+            "value": 12
+        }]
+    },
+    {
+        "question": "Sebutkan film kartun yang tidak ada dialog?",
+        "answers": [{
+            "option": ["shaun the sheep"],
+            "value": 38
+        }, {
+            "option": ["larva"],
+            "value": 26
+        }, {
+            "option": ["bernand bear"],
+            "value": 22
+        }, {
+            "option": ["mr bean"],
+            "value": 14
+        }]
+    },
+    {
+        "question": "Apa yang biasa dilakukan setelah menerima gaji?",
+        "answers": [{
+            "option": ["belanja", "hiburan"],
+            "value": 35
+        }, {
+            "option": ["bayar hutang"],
+            "value": 28
+        }, {
+            "option": ["bayar tagihan"],
+            "value": 22
+        }, {
+            "option": ["menabung"],
+            "value": 15
+        }]
+    },
+    {
+        "question": "Apa yang dilakukan ketika kita ketahuan pacar sedang jalan dengan mantan?",
+        "answers": [{
+            "option": ["salah tingkah"],
+            "value": 29
+        }, {
+            "option": ["kabur", "menghindar"],
+            "value": 21
+        }, {
+            "option": ["bohong"],
+            "value": 14
+        }, {
+            "option": ["diam saja", "pasrah"],
+            "value": 15
+        }, {
+            "option": ["menjelaskan", "membujuk"],
+            "value": 13
+        }, {
+            "option": ["minta maaf"],
+            "value": 8
+        }]
+    },
+    {
+        "question": "Sesuatu yang bercahaya?",
+        "answers": [{
+            "option": ["lilin", "api"],
+            "value": 26
+        }, {
+            "option": ["lampu", "senter"],
+            "value": 20
+        }, {
+            "option": ["matahari"],
+            "value": 16
+        }, {
+            "option": ["bulan"],
+            "value": 14
+        }, {
+            "option": ["bintang"],
+            "value": 9
+        }, {
+            "option": ["emas"],
+            "value": 7
+        }, {
+            "option": ["permata", "berlian"],
+            "value": 5
+        }]
+    },
+    {
+        "question": "Dimana orang biasa bersandar?",
+        "answers": [{
+            "option": ["tiang listrik"],
+            "value": 34
+        }, {
+            "option": ["mobil"],
+            "value": 21
+        }, {
+            "option": ["kursi", "sofa"],
+            "value": 16
+        }, {
+            "option": ["pintu"],
+            "value": 14
+        }, {
+            "option": ["tembok", "dinding"],
+            "value": 9
+        }, {
+            "option": ["punggung"],
+            "value": 6
+        }]
+    },
+    {
+        "question": "Hewan yang tidak berkaki?",
+        "answers": [{
+            "option": ["ular"],
+            "value": 36
+        }, {
+            "option": ["cacing"],
+            "value": 27
+        }, {
+            "option": ["belut"],
+            "value": 20
+        }, {
+            "option": ["lintah"],
+            "value": 12
+        }, {
+            "option": ["siput"],
+            "value": 5
+        }]
+    },
+    {
+        "question": "Apa yang biasanya sering lupa dibawa?",
+        "answers": [{
+            "option": ["uang", "duit"],
+            "value": 31
+        }, {
+            "option": ["dompet"],
+            "value": 20
+        }, {
+            "option": ["handphone", "hp", "telepon genggam"],
+            "value": 19
+        }, {
+            "option": ["kunci"],
+            "value": 13
+        }, {
+            "option": ["kacamata"],
+            "value": 11
+        }, {
+            "option": ["stnk"],
+            "value": 6
+        }]
+    }
+]
